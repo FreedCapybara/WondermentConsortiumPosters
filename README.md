@@ -14,3 +14,6 @@ Annual Wonderment Consortium poster designs.
 ### 2023
 ![2023 poster](https://spacegiraffedev.blob.core.windows.net/public/wonderment-consortium/poster2023-preview.png)
 
+### 2024
+![2024 poster](https://spacegiraffedev.blob.core.windows.net/public/wonderment-consortium/poster2024-preview.png)
+
